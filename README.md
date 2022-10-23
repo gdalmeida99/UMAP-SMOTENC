@@ -3,7 +3,7 @@ Fully Synthetic Data Creation
 
 This repository is intended to host the code from the experiments used for the developement of "UMAP-SMOTENC: AN EFFICIENT AND CONSISTENT ALTERNATIVE FOR FULLY SYNTHETIC DATA GENERATION".
 
-It is currently still in a V0 stage, with the minimum viable code for experimentation purpose, and will receive updates on "as needed" basis. Furthermore, as the project involves new functionalities may be added as well as demos and step by step explanations (currently, you will have to refer to the associated paper to get those details).
+It is currently still in a V0 stage, with the minimum viable code for experimentation purpose, and will receive updates on "as needed" basis. Furthermore, as the project involves new functionalities and code optimization mechanisms may be added as well as demos and step by step explanations (currently, you will have to refer to the associated paper to get those details).
 
 The datasets used on this experiment can be retrieved from: 
 
