@@ -11,7 +11,7 @@ Adult: https://archive.ics.uci.edu/ml/datasets/adult <br />
 Magic: https://archive.ics.uci.edu/ml/datasets/magic+gamma+telescope <br />
 Digits: https://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits <br />
 Beans: https://archive.ics.uci.edu/ml/datasets/Dry+Bean+Dataset <br />
-Occupancy: https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+ <br />
+Occupancy: https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection <br />
 Cover Type: https://archive.ics.uci.edu/ml/datasets/covertype <br />
 Credit Card: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud <br />
 Loan: https://www.kaggle.com/datasets/teertha/personal-loan-modeling <br />
