@@ -1,6 +1,7 @@
 # UMAP-SMOTENC
 Fully Synthetic Data Creation
 
-Implementation of the Counterfactual SMOTE framework, according to the "UMAP-SMOTENC: A Simple, Efficient, and Consistent Alternative for Privacy-Aware Synthetic Data Generation" and the relevant experimentation.
+Minimal implementation of the Counterfactual SMOTE framework, according to the "UMAP-SMOTENC: A Simple, Efficient, and Consistent Alternative for Privacy-Aware Synthetic Data Generation" (https://doi.org/10.1016/j.knosys.2024.112174).
 
-It is currently still in a Proof of Concept stage, with the minimum viable code for experimentation purpose. Furthermore, as the project involves new functionalities and code optimization mechanisms may be added as well as demos and step by step explanations (currently, you will have to refer to the associated paper to get those details).
+
+Paper Published on Knowledge-Based Systems: https://www.sciencedirect.com/science/article/pii/S0950705124008086
